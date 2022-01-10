@@ -1,0 +1,40 @@
+{
+	"name": "gluon-theme",
+	"displayName": "Gluon Theme",
+	"version": "1.0.0",
+	"publisher": "joesmaller",
+	"description": "Simple colourful VSCode theme",
+	"author": {
+		"name": "joesmaller",
+		"url": "https://joesmaller.xyz"
+	},
+	"categories": ["Themes"],
+	"keywords": ["theme", "light", "dark"],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+        "color": "#1e1e1e",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+	"license": "SEE LICENCE IN LICENCE.txt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joesmaller/gluon-theme.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gluon Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-color-theme.json"
+            },
+            {
+                "label": "Gluon Light",
+                "uiTheme": "vs",
+                "path": "./themes/light-color-theme.json"
+            }
+        ]
+    }
+}
