@@ -4,37 +4,37 @@
 	"version": "1.1.0",
 	"publisher": "joesmaller",
 	"description": "Simple colourful VSCode theme",
-	"author": {
-		"name": "joesmaller",
-		"url": "https://joesmaller.xyz"
-	},
-	"categories": ["Themes"],
-	"keywords": ["theme", "light", "dark"],
+	"author": { "name": "Joe Smaller" },
 	"icon": "images/icon.png",
-	"galleryBanner": {
-        "color": "#1e1e1e",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.85.1"
-    },
+	"categories": ["Themes"],
+	"galleryBanner": { "color": "#1e1e1e", "theme": "dark" },
+	"pricing": "Free",
+	"engines": { "vscode": "^1.85.0" },
 	"license": "SEE LICENCE IN LICENCE.txt",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/joesmaller/gluon-theme.git"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gluon Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark.json"
-            },
-            {
-                "label": "Gluon Light",
-                "uiTheme": "vs",
-                "path": "./themes/light.json"
-            }
-        ]
-    }
+	"keywords": ["theme", "light", "dark", "high-contrast"],
+	"repository": { "type": "git", "url": "https://github.com/joesmaller/gluon-theme.git" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gluon Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark.json"
+			},
+			{
+				"label": "Gluon Light",
+				"uiTheme": "vs",
+				"path": "./themes/light.json"
+			},
+			{
+				"label": "Gluon Dark High Contrast",
+				"uiTheme": "hc-black",
+				"path": "./themes/dark-hc.json"
+			},
+			{
+				"label": "Gluon Light High Contrast",
+				"uiTheme": "hc-light",
+				"path": "./themes/light-hc.json"
+			}
+		]
+	}
 }
