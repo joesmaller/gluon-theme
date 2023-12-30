@@ -1,9 +1,8 @@
 {
 	"name": "Gluon Light",
-	"type": "light",
 	"colors": {
-		"editor.background": "#e1e1e1",
-		"editor.foreground": "#1e1e1e"
+		"editor.background": "#FFFFFF",
+		"editor.foreground": "#000000"
 	},
 	"tokenColors": [
 		{

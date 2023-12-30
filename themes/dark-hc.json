@@ -1,9 +1,14 @@
 {
 	"name": "Gluon Dark",
-	"type": "dark",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#FFFFFF"
+		"editor.foreground": "#FFFFFF",
+
+		"contrastActiveBorder": "#0088FF",
+		"contrastBorder": "#FF0000",
+
+		"foreground": "#FFFFFF",
+		"disabledForeground": "#444444"
 	},
 	"tokenColors": [
 		{
