@@ -28,7 +28,7 @@
             {
                 "label": "Gluon Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark-color-theme.json"
+                "path": "./themes/dark.json"
             },
             {
                 "label": "Gluon Light",
