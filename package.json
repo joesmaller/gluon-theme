@@ -33,7 +33,7 @@
             {
                 "label": "Gluon Light",
                 "uiTheme": "vs",
-                "path": "./themes/light-color-theme.json"
+                "path": "./themes/light.json"
             }
         ]
     }
