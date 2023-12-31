@@ -32,8 +32,14 @@
 
 		"editorBracketMatch.background": "#8884",
 		"editorBracketHighlight.foreground1": "#FF0",
-		"editorBracketHighlight.foreground2": "#F0F",
-		"editorBracketHighlight.foreground3": "#FF0"
+		"editorBracketHighlight.foreground2": "#FF0B",
+		"editorBracketHighlight.foreground3": "#FF0",
+		"editorBracketHighlight.foreground4": "#FF0B",
+
+		"diffEditor.insertedTextBackground": "#0802",
+		"diffEditor.insertedTextBorder": "#0F0",
+		"diffEditor.removedTextBackground": "#8002",
+		"diffEditor.removedTextBorder": "#F00"
 	},
 	"tokenColors": [
 		{
