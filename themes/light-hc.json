@@ -1,8 +1,14 @@
 {
-	"name": "Gluon Light",
+	"name": "Gluon Light High Contrast",
 	"colors": {
-		"editor.background": "#FFFFFF",
-		"editor.foreground": "#000000"
+		"foreground": "#000",
+		"disabledForeground": "#BBB",
+
+		"editor.background": "#FFF",
+		"editor.foreground": "#000",
+
+		"contrastActiveBorder": "#000",
+		"contrastBorder": "#888"
 	},
 	"tokenColors": [
 		{
@@ -13,7 +19,7 @@
 				"constant.character"
 			],
 			"settings": {
-				"foreground": "#009600",
+				"foreground": "#0A0",
 				"fontStyle": "italic"
 			}
 		},
@@ -23,7 +29,7 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#00c0c0"
+				"foreground": "#0AA"
 			}
 		},
 		{
@@ -34,7 +40,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#0575ff"
+				"foreground": "#07F"
 			}
 		},
 		{
@@ -46,7 +52,7 @@
 				"support.constant"
 			],
 			"settings": {
-				"foreground": "#caa500"
+				"foreground": "#880"
 			}
 		},
 		{
@@ -59,7 +65,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#E90000"
+				"foreground": "#F00"
 			}
 		},
 		{
@@ -68,7 +74,8 @@
 				"string"
 			],
 			"settings": {
-				"foreground": "#ff00ff"
+				"foreground": "#F0F",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -77,7 +84,8 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#ff9022"
+				"foreground": "#F80",
+				"fontStyle":"italic"
 			}
 		},
 		{
@@ -86,7 +94,7 @@
 				"invalid"
 			],
 			"settings": {
-				"foreground": "#ff8000"
+				"foreground": "#F00"
 			}
 		}
 	]
