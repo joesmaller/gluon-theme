@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [1.2.0] - 2023-12-31
 
 ### Changed
 
@@ -8,7 +8,7 @@
 * Use simplified `#RGB` colour format instead
 * Changed `Gluon Dark High Contrast` significantly
 
-## [1.1.0]
+## [1.1.0] - 2023-12-30
 
 ### Added
 
@@ -19,7 +19,7 @@
 
 * Tweaked `editor.background` and `editor.foreground` for `Gluon Light` and `Gluon Dark`
 
-## [1.0.0]
+## [1.0.0] - 2022-01-10
 
 Initial release
 
@@ -28,6 +28,6 @@ Initial release
 * `Gluon Dark` theme
 * `Gluon Light` theme
 
-[unreleased]: https://github.com/joesmaller/former/compare/v1.0.0...HEAD
+[1.2.0]: https://github.com/joesmaller/former/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/joesmaller/former/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/joesmaller/former/releases/tag/v1.0.0
