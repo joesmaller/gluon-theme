@@ -5,6 +5,8 @@
 ### Changed
 
 * Tweaked colours for themes
+* Use simplified `#RGB` colour format instead
+* Changed `Gluon Dark High Contrast` significantly
 
 ## [1.1.0]
 
