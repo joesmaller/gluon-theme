@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [1.2.0]
 
 ### Changed
 
@@ -28,6 +28,6 @@ Initial release
 * `Gluon Dark` theme
 * `Gluon Light` theme
 
-[unreleased]: https://github.com/joesmaller/former/compare/v1.0.0...HEAD
+[1.2.0]: https://github.com/joesmaller/former/compare/v1.0.0...HEAD
 [1.1.0]: https://github.com/joesmaller/former/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/joesmaller/former/releases/tag/v1.0.0
