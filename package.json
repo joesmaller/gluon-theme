@@ -1,7 +1,7 @@
 {
 	"name": "gluon-theme",
 	"displayName": "Gluon Theme",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"publisher": "joesmaller",
 	"description": "Simple colourful VSCode theme",
 	"author": { "name": "Joe Smaller" },
