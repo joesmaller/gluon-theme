@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.1] - 2024-01-15
+
+### Changed
+
+* Fixed the changelog version comparison pointing towards the wrong repository
+
 ## [1.2.0] - 2023-12-31
 
 ### Changed
@@ -28,6 +34,7 @@ Initial release
 * `Gluon Dark` theme
 * `Gluon Light` theme
 
-[1.2.0]: https://github.com/joesmaller/former/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/joesmaller/former/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/joesmaller/former/releases/tag/v1.0.0
+[1.2.1]: https://github.com/joesmaller/gluon-theme/compare/v1.2.0...v1.2.1
+[1.2.0]: https://github.com/joesmaller/gluon-theme/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/joesmaller/gluon-theme/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/joesmaller/gluon-theme/releases/tag/v1.0.0
