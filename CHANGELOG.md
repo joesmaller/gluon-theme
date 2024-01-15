@@ -5,6 +5,7 @@
 ### Changed
 
 * Fixed the changelog version comparison pointing towards the wrong repository
+* Rearranged order of preview images on the README.md page
 
 ## [1.2.0] - 2023-12-31
 
